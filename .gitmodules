@@ -1,0 +1,9 @@
+[submodule "task-1-2-svg-3"]
+	path = task-1-2-svg-3
+	url = https://github.com/ivan-developer-01/svg-tasks-22.3
+[submodule "task-3-4-geolocation-screenSize-timezone-5"]
+	path = task-3-4-geolocation-screenSize-timezone-5
+	url = https://github.com/ivan-developer-01/geolocation-screenSize-timezone-tasks-22.5
+[submodule "task-5-websocket-chat-6"]
+	path = task-5-websocket-chat-6
+	url = https://github.com/ivan-developer-01/websocket-chat-task-22.6
